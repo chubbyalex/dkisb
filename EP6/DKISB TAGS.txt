@@ -1,0 +1,23 @@
+Soundcloud:
+
+Avsnitt X - "Name"
+
+#DKISB
+#Podcast
+#Dettakommerinteslutabra
+
+<--- Tagg --->
+
+Track info:
+	
+Artist Name:	DKISB 
+Track Title:	"Insert name" "Avsnitt 5 "#" "
+Album Title: 	Detta kommer inte sluta bra 
+Track Number:	"2"
+Year:
+Genre:		"Entertainment"
+Comments
+	
+Copyright
+URL:
+Image: 		Cover/Picture/Album art
